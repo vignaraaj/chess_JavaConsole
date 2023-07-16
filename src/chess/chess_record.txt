@@ -1,0 +1,4 @@
+WHITE W_P at e2 has been moved to e4
+BLACK B_P at f7 has been moved to f5
+WHITE W_P at f2 has been moved to f3
+BLACK B_P at f5 has been moved to f4

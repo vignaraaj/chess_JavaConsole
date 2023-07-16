@@ -1,0 +1,2 @@
+WHITE W_P at d2 has been moved to d4
+BLACK B_P at c7 has been moved to c5
